@@ -68,7 +68,7 @@ https://www.academia.edu/94787156/Characterizing_Passively_Collected_Real_World_
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8727438/
 
 **Zulueta et al. (2018)**  
-*Predicting mood disturbance severity with keystroke metadata: A BiAffect study*,  
+*Predicting mood disturbance severity with keystroke metadata: A BiAffect study*
 https://pubmed.ncbi.nlm.nih.gov/30030209/
 
 **Stange et al. (2018)**  
