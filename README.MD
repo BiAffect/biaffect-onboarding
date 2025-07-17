@@ -80,3 +80,20 @@ https://pubmed.ncbi.nlm.nih.gov/29516666/
 https://arxiv.org/abs/1803.08986
 
 ---
+
+## 📈 Data Analysis Prep
+
+If you're going to work on data analysis of the keyboard dynamics collected by the BiAffect app, please review the following to prepare.
+
+We use Synapse as our data repository, and the `synapseclient` Python package to access and download data. Below are essential resources to get you started:
+
+- [Synapse Python Client Setup](https://python-docs.synapse.org/tutorials/python_client/)  
+  Installation and authentication guide for `synapseclient`.
+
+- [Using `synapseutils.syncFromSynapse()`](https://python-docs.synapse.org/reference/synapse_utils/)  
+  Reference for downloading files and working with manifests.
+
+- [Entity Types, Annotations, and File Metadata](https://help.synapse.org/docs/Downloading-Data-Programmatically.2003796248.html)  
+  Overview of Synapse IDs, files, folders, and how to access metadata and annotations.
+
+---
