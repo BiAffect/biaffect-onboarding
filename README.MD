@@ -1,19 +1,19 @@
 # 👋 Welcome to BiAffect!
 
-We're excited to have you on board. This document will guide you through the key resources to help you get familiar with what we're building.
+We're excited to have you on board. This document will guide you through the key resources to help you get familiar with what we're researching & building.
 
 ---
 
 ## 📱 Download the App
 
-Start by exploring the current BiAffect iOS app:  
+Start by exploring the BiAffect iOS app:  
 🔗 [Download from the App Store](https://apps.apple.com/us/app/biaffect3/id6451423106)
 
 ---
 
 ## 🎥 Overview Video
 
-Get a high-level introduction to our mission and vision:  
+Get a high-level introduction to BiAffect:  
 ▶️ [TEDx Talk by Dr. Alex Leow](https://www.youtube.com/watch?v=FGggieYbN2g&themeRefresh=1)
 
 ---
@@ -31,7 +31,7 @@ Below are key publications that form the scientific foundation of BiAffect. Star
 
 ---
 
-### Core Papers
+### Most Recent Papers
 **Knol et al. (2024)**  
 *Smartphone keyboard dynamics predict affect in suicidal ideation*  
 https://pubmed.ncbi.nlm.nih.gov/38076837/
