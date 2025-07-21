@@ -96,4 +96,8 @@ We use Synapse as our data repository, and the `synapseclient` Python package to
 - [Entity Types, Annotations, and File Metadata](https://help.synapse.org/docs/Downloading-Data-Programmatically.2003796248.html)  
   Overview of Synapse IDs, files, folders, and how to access metadata and annotations.
 
+To request data access, please contact our Research Specialist, Faraz: **farazh@uic.edu**
+
 ---
+
+For any other questions, feel free to reach out to our Software Specialist, Andrew: **apapar2@uic.edu**
